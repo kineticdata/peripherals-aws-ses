@@ -1,6 +1,7 @@
 ---
 repo-name: peripherals-aws-ses
 categories:
-- Messaging
-- Cloud
-display-name: 
+  - Messaging
+  - Cloud
+display-name: Amazon SES
+manufacture: Amazon
