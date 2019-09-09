@@ -4,4 +4,5 @@ categories:
   - Messaging
   - Cloud
 display-name: Amazon SES
-manufacture: Amazon
+manufacturer: Amazon
+description: Amazon Simple Email Service (Amazon SES) is a cloud-based email sending service designed to help digital marketers and application developers send marketing, notification, and transactional emails.
