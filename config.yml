@@ -1,6 +1,8 @@
 ---
 repo-name: peripherals-aws-ses
 categories:
-- Messaging
-- Cloud
-display-name: 
+  - Messaging
+  - Cloud
+display-name: Amazon SES
+manufacturer: Amazon
+description: Amazon Simple Email Service (Amazon SES) is a cloud-based email sending service designed to help digital marketers and application developers send marketing, notification, and transactional emails.
