@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.kineticdata.bridges.adapter</groupId>
     <artifactId>kinetic-bridgehub-adapter-amazonses</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
     <packaging>jar</packaging>
 
     <name>kinetic-bridgehub-adapter-amazonses</name>
@@ -18,15 +20,15 @@
             <url>http://utilities.kineticdata.com/nexus/content/repositories/releases/</url>
         </repository>
         <snapshotRepository>
-          <id>com.kineticdata.snapshots</id>
-          <url>http://utilities.kineticdata.com/nexus/content/repositories/snapshots</url>
+            <id>com.kineticdata.snapshots</id>
+            <url>http://utilities.kineticdata.com/nexus/content/repositories/snapshots</url>
         </snapshotRepository>
     </distributionManagement>
 
     <repositories>
         <repository>
-          <id>com.kineticdata</id>
-          <url>http://utilities.kineticdata.com/nexus/content/repositories/releases/</url>
+            <id>com.kineticdata</id>
+            <url>http://utilities.kineticdata.com/nexus/content/repositories/releases/</url>
         </repository>
     </repositories>
 
@@ -49,7 +51,7 @@
         <dependency>
             <groupId>org.json</groupId>
             <artifactId>json</artifactId>
-            <version>20140107</version>
+            <version>20231013</version>
             <type>jar</type>
         </dependency>
         <dependency>
